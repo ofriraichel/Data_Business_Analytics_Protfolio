@@ -12,7 +12,12 @@ Skills:feature engineering , advanced regression techniques (random forest)
 
 **Python ETL**
 
-**Tabelu**
+# Tabelu 
+
+**Global Unicorn Companies** - Initiated and executed a full-cycle data analysis project, beginning with the extraction and cleansing of global unicorn company data using Pandas in Python, followed by the creation of a comprehensive Tableau dashboard. This dashboard elegantly visualizes key trends in startup valuations and industry dominance across different countries, offering interactive and actionable insights for strategic decision-making.
+
+Skills:Data visualization, Analytical thinking
+
 
 **BI**
 
