@@ -2,7 +2,7 @@
 This repository contains all of the various projects I have and will work on in my pursuit of becoming a Data Analyst/Business Analyst. My projects, in order of most recent to least recent, are as follows:
 # Machine Learning Projects:
 
-**House price predictions - kaggle competition:** Predicted the sales price for each house described in the data set using multiple relevant features.
+**House price predictions - kaggle competition:** Predicted the sales price for each house described in the data set using features such as : Area of the house and year built. I used random forest as my model however I wanted to increase the accuracy so I split the data into 2 : test and split which later I will train two different random forest models on. Used Pandas to read CSV data.
 
 Skills:feature engineering , advanced regression techniques (random forest)
 
