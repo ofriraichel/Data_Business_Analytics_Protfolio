@@ -1,0 +1,20 @@
+1. What is the trend of searches for "Bitcoin" over the last 5 years?
+
+2. How do searches for "flu vaccine" vary seasonally each year?
+
+3. Compare the search popularity of major streaming platforms (Netflix, Hulu, Amazon Prime) in the past year.
+
+4. What are the peak times for searches related to mental health during the pandemic?
+
+5. How do search trends for electric cars compare in different countries?
+
+6. Analyze the correlation between major sports events (e.g., Super Bowl, FIFA World Cup) and related search terms.
+
+7. Investigate how political elections affect searches for terms related to voting or political parties.
+
+8. What is the impact of celebrity endorsements on searches for health products or diets?
+
+9. Can we predict spikes in travel-related searches based on searches for travel restrictions and safety?
+
+10. Develop a comprehensive dashboard that tracks real-time search trends for key indicators of economic activity (e.g., job search, real estate, stock market).
+
