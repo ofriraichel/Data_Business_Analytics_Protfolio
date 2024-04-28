@@ -6,20 +6,19 @@ This repository contains all of the various projects I have and will work on in 
 
 Skills:feature engineering , advanced regression techniques (random forest)
 
+# Data Analytics Projects:
 
-# General Projects:
-**SQL**
+## SQL & Azure
+**Data Engineering & Analytics for Tokyo Olympics**
 
-**Python ETL**
+Designed and implemented a cloud-based data pipeline to ETL and analyze Tokyo Olympics data. Using Azure Data Factory to ensure seamless data transfer from GitHub repository to Azure Data Lake gen2. Leveraged Databricks with pandas for transforming the data and spark SQL to analyze it with complex queries.
 
-# Tabelu 
+Skills : ETL , Cloud storage managment, Spark, SQL
+## Tabelu 
 
-**Global Unicorn Companies** - Initiated and executed a full-cycle data analysis project, beginning with the extraction and cleansing of global unicorn company data using Pandas in Python, followed by the creation of a comprehensive Tableau dashboard. This dashboard elegantly visualizes key trends in startup valuations and industry dominance across different countries, offering interactive and actionable insights for strategic decision-making.
+**Global Unicorn Companies** - Initiated and executed a full-cycle data analysis project, beginning with the extraction and cleansing of global unicorn company data using Pandas in Python, followed by the creation of a comprehensive Tableau dashboard. This dashboard elegantly visualizes key trends in startup valuations and industry dominance across different countries.
 
 Skills:Data visualization, Analytical thinking
-
-
-**BI**
 
 
 
